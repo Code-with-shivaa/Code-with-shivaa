@@ -1,4 +1,4 @@
-# Hi there, I'm <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
+# Hi there! I'm <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=39FF14&width=435&lines=Shivam+Kumar+Jha;A+Full+Stack+Developer;A+BCA+Student" alt="Typing SVG" /> 👋
 
 ## <span style="color: #00adb5;">Shivam Kumar Jha</span>
 
